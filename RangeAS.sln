@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RangeAS", "RangeAS\RangeAS.csproj", "{8F357F9C-F33F-445A-80FB-75CD3A189907}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RangeASTest", "RangeASTest\RangeASTest.csproj", "{AC3D40A5-9498-431D-AF41-EB376E766A98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F357F9C-F33F-445A-80FB-75CD3A189907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F357F9C-F33F-445A-80FB-75CD3A189907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F357F9C-F33F-445A-80FB-75CD3A189907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F357F9C-F33F-445A-80FB-75CD3A189907}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC3D40A5-9498-431D-AF41-EB376E766A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC3D40A5-9498-431D-AF41-EB376E766A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC3D40A5-9498-431D-AF41-EB376E766A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC3D40A5-9498-431D-AF41-EB376E766A98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC6AFE5D-5BBC-48BF-8434-E8ED2E6B4929}
+	EndGlobalSection
+EndGlobal
